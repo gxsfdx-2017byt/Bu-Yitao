@@ -10,6 +10,10 @@
 <!--    <rect fill="white" stroke="black" stroke-width="2" width="100" height="100"></rect>-->
     <rect fill="white" stroke="black" stroke-width="2" width="100%" height="100%"></rect>
     <rect fill="white"
+          x = "0%"
+          y = "0%"
+          stroke="black" stroke-width="2" width="23%" height="100%"></rect>
+    <rect fill="white"
           x = "77%"
           y = "70%"
           stroke="black" stroke-width="2" width="23%" height="30%"></rect>
