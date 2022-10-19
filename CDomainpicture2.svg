@@ -12,6 +12,6 @@
     <rect fill="white"
           x = "77%"
           y = "70%"
-          stroke="black" stroke-width="2" width="23%" height="30%"></rect>
+          stroke="blue" stroke-width="2" width="23%" height="30%"></rect>
     <text x="83%" y="97%" class="text">C</text>
 </svg>
